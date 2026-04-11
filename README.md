@@ -69,6 +69,7 @@ The pipeline consists of three main stages:
 ```bash
 medical-llm-report-gen/
 │
+├── dataset/     
 ├── notebooks/
 ├── src/
 │   ├── feature_extraction.py
