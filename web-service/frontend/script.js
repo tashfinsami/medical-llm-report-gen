@@ -9,6 +9,8 @@ let reportText = "";
 
 generateButton.addEventListener("click", async () => {
 
+    document.getElementById("error-container").hidden = true;
+
     const file = imageInput.files[0];
 
     if (!file) {
@@ -52,6 +54,8 @@ generateButton.addEventListener("click", async () => {
         downloadButton.hidden = false;
 
     } catch (error) {
+
+        document.getElementById("error-container").hidden = false;
 
         console.error(error);
 

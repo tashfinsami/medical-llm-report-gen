@@ -13,7 +13,19 @@
 
     <main class="container">
 
-        <h1>Mammogram Report</h1>
+        <div class="title-row">
+
+            <h1>LLM-Assisted Mammography Report</h1>
+
+            <a
+                href="https://github.com/tashfinsami/medical-llm-report-gen"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="github-button"
+            >
+            View Source on GitHub
+            </a>
+        </div>
 
         <p class="description">
             Upload a mammogram image to generate a structured medical report.
@@ -34,6 +46,23 @@
             <button id="generateButton">
                 Generate Report
             </button>
+
+            <div id="error-container" hidden>
+                <h3>Report Generation Failed</h3>
+
+                <p id="error-message">
+                    The language model may be temporarily unavailable or experiencing high demand. 
+                    Please try again in 1-2 minutes. 
+                    Do not close or leave this page while the process is in progress, 
+                    as doing so may prevent the complete report from being delivered.
+                    If the problem persists after several attempts, please contact support.
+                </p>
+
+                <p>
+                    Contact support:
+                    <a href="mailto:tashfinsami79@gmail.com">tashfinsami79@gmail.com</a>
+                </p>
+            </div>
 
         </section>
 
