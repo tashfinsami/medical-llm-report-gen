@@ -9,6 +9,18 @@ The report generation component uses Qwen3 as the underlying language model.
 
 ---
 
+## Publication
+
+This repository accompanies the following conference paper:
+
+**Automating Mammogram Reports Using Vision Language Models for Standardized, Clinically Actionable Insights**
+
+**Authors:** Sk. Md. Tashfin Sami, Md. Masud Rana Redoy, Tanvir Ahmed Tamim, Md Abdul Masud, Muhammad Muhtasim
+
+**Year:** 2026
+
+---
+
 ## Pipeline Architecture
 
 The pipeline consists of three main stages:
