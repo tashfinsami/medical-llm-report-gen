@@ -1,0 +1,75 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f5f5f5;
+}
+
+.container {
+    width: min(900px, 90%);
+    margin: 50px auto;
+}
+
+h1 {
+    margin-bottom: 10px;
+}
+
+.description {
+    color: #555;
+}
+
+.upload-section,
+.report-section {
+    background: white;
+    padding: 25px;
+    margin-top: 25px;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+}
+
+.upload-section label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+input[type="file"] {
+    display: block;
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 10px 18px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background: #333;
+    color: white;
+}
+
+button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+#status {
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+#report {
+    min-height: 300px;
+    padding: 20px;
+    background: #f8f8f8;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    white-space: pre-wrap;
+    overflow-x: auto;
+}
+
+#downloadButton {
+    margin-top: 15px;
+}

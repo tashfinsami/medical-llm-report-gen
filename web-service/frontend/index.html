@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Medical LLM Report Generator</title>
+
+    <link rel="stylesheet" href="static/style.css">
+</head>
+
+<body>
+
+    <main class="container">
+
+        <h1>Mammogram Report</h1>
+
+        <p class="description">
+            Upload a mammogram image to generate a structured medical report.
+        </p>
+
+        <section class="upload-section">
+
+            <label for="imageInput">
+                Select Mammogram
+            </label>
+
+            <input
+                type="file"
+                id="imageInput"
+                accept="image/png,image/jpeg"
+            >
+
+            <button id="generateButton">
+                Generate Report
+            </button>
+
+        </section>
+
+        <p id="status"></p>
+
+        <section class="report-section">
+
+            <h2>Generated Report</h2>
+
+            <pre id="report"></pre>
+
+            <button id="downloadButton" hidden>
+                Download Report
+            </button>
+
+        </section>
+
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+    <script src="static/script.js"></script>
+
+</body>
+</html>
