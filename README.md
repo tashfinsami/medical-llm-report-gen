@@ -1,5 +1,7 @@
 # Medical Imaging → Structured Report Generation (LLM Pipeline)
 
+**Live Demo:** [Open the application](https://mammogram-report-gen.onrender.com/)
+
 ## Overview
 This project implements an end-to-end pipeline that converts **mammogram images** into structured diagnostic reports using Large Language Models (LLMs). The system is designed to reflect real-world clinical workflows with an emphasis on modularity, interpretability, and evaluation.
 
