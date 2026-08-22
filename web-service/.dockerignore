@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+.git/
+generated_files/
+source_files/
