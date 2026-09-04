@@ -134,8 +134,3 @@ Output:
 
 ## Note
 This project uses non-sensitive / sample data for demonstration purposes only.
-
----
-
-## Author
-Sk. Md. Tashfin Sami
