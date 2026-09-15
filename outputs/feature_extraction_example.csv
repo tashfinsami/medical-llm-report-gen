@@ -1,0 +1,100 @@
+image_id,mass_shape,microcalcification_pattern,architectural_distortion,breast_density_category,malignant
+1002348595,oval,none,none,heterogeneously dense,no
+100791157,none,none,none,fatty,no
+1055319105,none,none,none,heterogeneously dense,no
+1059392853,irregular,clustered,none,heterogeneously dense,no
+1059716323,round,none,none,fatty,no
+1086977375,none,none,none,fatty,no
+1111550956,round,none,none,fatty,no
+1127855363,none,scattered,none,heterogeneously dense,no
+1141466623,round,clustered,none,heterogeneously dense,no
+1185839362,oval,none,none,fatty,no
+118705721,round,none,none,fatty,no
+1189929071,none,none,none,scattered,no
+1205666736,none,none,none,heterogeneously dense,no
+1207815800,none,none,none,scattered,no
+1230663443,oval,none,none,heterogeneously dense,no
+1255236431,round,none,none,heterogeneously dense,no
+1256209009,oval,none,none,heterogeneously dense,no
+1271915009,none,none,none,heterogeneously dense,no
+1282273619,none,none,none,heterogeneously dense,no
+1336153766,round,none,none,heterogeneously dense,no
+1351659289,round,none,none,heterogeneously dense,no
+1363901308,none,none,none,heterogeneously dense,no
+1366895593,round,scattered,none,fatty,no
+138962356,round,none,none,fatty,no
+138972646,none,none,none,heterogeneously dense,no
+1421845880,round,none,none,fatty,no
+145959277,round,none,none,heterogeneously dense,no
+1460629491,irregular,clustered,none,heterogeneously dense,yes
+147232633,irregular,clustered,none,heterogeneously dense,yes
+1484931767,none,clustered,none,heterogeneously dense,yes
+153648592,round,none,none,heterogeneously dense,no
+1620619301,none,none,none,heterogeneously dense,no
+1631952544,oval,none,none,heterogeneously dense,no
+1662724073,irregular,clustered,moderate,heterogeneously dense,yes
+1715970780,irregular,clustered,none,heterogeneously dense,yes
+1736269045,round,none,none,heterogeneously dense,no
+17650772,none,none,none,heterogeneously dense,no
+1765794814,none,none,none,heterogeneously dense,no
+1775490159,irregular,clustered,none,heterogeneously dense,no
+1852393673,none,none,none,heterogeneously dense,no
+1869230850,none,none,none,heterogeneously dense,no
+1892888100,none,none,none,scattered,no
+1893371288,none,none,none,scattered,no
+1904002506,round,none,none,heterogeneously dense,no
+2006015654,oval,none,none,fatty,no
+2041280578,none,none,none,heterogeneously dense,no
+2054811010,irregular,clustered,moderate,heterogeneously dense,yes
+2055597134,irregular,clustered,moderate,heterogeneously dense,yes
+2070170748,round,none,none,fatty,no
+2125610822,round,none,none,fatty,no
+2129233566,none,none,none,fatty,no
+2129270210,round,scattered,none,heterogeneously dense,no
+2130109536,irregular,clustered,none,heterogeneously dense,no
+221096123,round,scattered,none,heterogeneously dense,no
+232712234,none,none,none,heterogeneously dense,no
+1791468275,none,none,none,fatty,no
+1957729736,none,clustered,none,heterogeneously dense,yes
+2087907277,none,none,none,heterogeneously dense,no
+2115688981,oval,none,none,heterogeneously dense,no
+236729039,round,none,none,heterogeneously dense,no
+267266091,round,none,none,fatty,no
+280430685,round,scattered,none,heterogeneously dense,no
+291721849,round,none,none,heterogeneously dense,no
+291976928,round,none,none,fatty,no
+293937906,none,none,none,heterogeneously dense,no
+302179668,none,none,none,heterogeneously dense,no
+442711943,round,none,none,fatty,no
+4493744,none,none,none,fatty,no
+453797042,round,none,none,scattered,no
+50153598,round,scattered,none,fatty,no
+527993011,irregular,clustered,none,heterogeneously dense,no
+537332926,irregular,none,none,heterogeneously dense,yes
+540085215,round,none,none,fatty,no
+540718103,oval,none,none,heterogeneously dense,no
+625147236,none,none,none,fatty,no
+637833530,round,none,none,fatty,no
+637984831,round,none,none,fatty,no
+640156723,oval,none,none,heterogeneously dense,no
+678839476,none,none,none,fatty,no
+685092923,round,clustered,none,heterogeneously dense,no
+70960365,none,none,none,heterogeneously dense,no
+771977585,none,none,none,fatty,no
+787281164,round,none,none,fatty,no
+917935711,none,none,none,fatty,no
+935157439,round,none,none,fatty,no
+947651636,round,none,none,heterogeneously dense,no
+958727958,round,clustered,none,heterogeneously dense,yes
+321555159,irregular,clustered,none,heterogeneously dense,no
+390797277,round,none,none,fatty,no
+510568053,none,none,none,fatty,no
+512684699,none,clustered,none,heterogeneously dense,yes
+513700051,irregular,clustered,none,heterogeneously dense,no
+554554119,round,none,none,heterogeneously dense,no
+568161399,none,none,none,fatty,no
+579841204,irregular,clustered,none,heterogeneously dense,yes
+72206775,round,none,none,fatty,no
+730152798,none,clustered,none,heterogeneously dense,yes
+734300452,none,none,none,heterogeneously dense,no
+740921229,none,none,none,heterogeneously dense,no
