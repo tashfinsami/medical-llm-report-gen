@@ -26,7 +26,7 @@ generateButton.addEventListener("click", async () => {
     downloadButton.hidden = true;
 
     reportElement.textContent = "";
-    statusElement.textContent = "Generating report...";
+    statusElement.textContent = "Generating report... Please wait while the LLM processes your data. This may take some time.";
 
     try {
 
